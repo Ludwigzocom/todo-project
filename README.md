@@ -64,6 +64,16 @@ Gör en commit efter varje steg.
 10. **Spara.** Skriv `save()` som sparar arrayen, och anropa den efter varje ändring. Läs in arrayen när sidan startar. *Klart när:* allt finns kvar efter att sidan laddats om.
 11. **Slutputs.** Styling, kontrollera att allt fungerar, och sista push.
 
+
+## Presentation
+ 
+Sist under dagen visar varje team sin app för gruppen, cirka fem minuter per team.
+ 
+- Visa hur appen ser ut och fungerar, både som mobil och som dator.
+- Berätta hur ni tänkt: hur ni delade upp arbetet, vad som var klurigast, och något ni valde själva.
+- Fördela så att alla i teamet säger något.
+
+  
 ## Bonus
 
 - En knapp **Clear completed** som tar bort alla klara todos.
