@@ -75,7 +75,13 @@ Sist under dagen visar varje team sin app för gruppen, cirka fem minuter per te
 
   
 ## Bonus
-
-- En knapp **Clear completed** som tar bort alla klara todos.
-- Dubbelklicka på en todo för att ändra texten.
-- Olika färg på klara och ej klara todos med `classList`.
+ 
+Välj själva. Börja med bonusarna först när alla krav ovan fungerar.
+ 
+- **Filtrera:** tre knappar, *All*, *Active* och *Done*, som visar alla todos, bara de som inte är klara, eller bara de som är klara.
+- **Clear completed:** en knapp som tar bort alla klara todos på en gång.
+- **Ändra en todo:** dubbelklicka på en todo för att ändra texten.
+- **Prioritet:** ge varje todo en prioritet (till exempel *Low*, *Medium* och *High*) med en `select`, och visa den med olika färg.
+- **Mörkt läge:** en knapp som växlar mellan ljust och mörkt utseende, och som sparas så att valet finns kvar efter att sidan laddats om.
+- **Ångra borttagning:** en knapp *Undo* som lägger tillbaka den todo som senast togs bort.
+ 
